@@ -1,2 +1,2 @@
 # Solar
-depository for my work on the DTU solar car
+Depository for my work on the DTU solar car
